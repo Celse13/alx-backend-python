@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Docs"""
+""" Module documentation """
 
 
 def add(a: float, b: float) -> float:
-    """Add floats"""
+    """Func doc"""
     return a + b
