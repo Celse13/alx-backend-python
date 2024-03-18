@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-""" Async """
+""" Module documentation """
 import asyncio
 import random
 
 
 async def wait_random(max_delay: int = 10) -> float:
-    """ Asnyc """
+    """doc func"""
     delay = random.uniform(0, max_delay)
     await asyncio.sleep(delay)
     return delay
