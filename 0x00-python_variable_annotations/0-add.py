@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Docs"""
+""" Float operation doc """
 
 
 def add(a: float, b: float) -> float:
-    """Add floats"""
+    """Adding Flooat """
     return a + b
